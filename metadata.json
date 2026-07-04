@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "Premium AI Web Development Agency building modern, lightning-fast, AI-powered websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/1aff0803-5c52-4b06-8c27-5dbbc34142c4
+View your app in AI Studio: https://nex0ra-ai.netlify.app
 
 ## Run Locally
 
